@@ -1,9 +1,9 @@
 # go-boiler-plate
 This is a golang boiler plate setup consisting of the follows.
--> Database: MySql
--> Restful apis for User model
--> Authentication via JWT
--> Authorization for public users, protected users and admins.
+- Database: MySql
+- Restful apis for User model
+- Authentication via JWT
+- Authorization for public users, protected users and admins.
 
 ## Pre-requisite
 1. Go installed
