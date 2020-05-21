@@ -16,5 +16,5 @@ This is a golang boiler plate setup consisting of the follows.
 
 ## To Run The Project
 - Run `go get .` in `go-boiler-plate` folder to install dependancies
-- To run the project locally run `go run main.go` in the same repo
+- To run the project locally run `go run main.go`
 - To create a build run `go build`
